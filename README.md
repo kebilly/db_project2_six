@@ -1,3 +1,3 @@
 # db_project2_six
 
-Project2 SQL檔與資料集CSV檔
+資料庫 第六組 Project2 SQL檔 與 資料集CSV檔
